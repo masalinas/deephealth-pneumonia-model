@@ -39,3 +39,6 @@ node_modules
 Images
 train_classifed
 validation_test_dataset
+
+# any open office document
+*.odt
